@@ -14,5 +14,9 @@
 # define PIPEX_H
 
 #include <stdio.h>
+# include <sys/types.h>
+
+int	ft_puterror(void);
+
 
 #endif
